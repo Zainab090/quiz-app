@@ -27,57 +27,6 @@ A sleek, responsive, and interactive **Quiz Application** built using **HTML, CS
 
 ---
 
-
-
-
-
-## 🚀 Features
-
-* ✅ Multiple choice questions
-* ⏱️ Timer-based quizzes (optional)
-* 📊 Instant score display
-* 🎯 Visual feedback for right/wrong answers
-* 🧩 Clean and modern UI
-* 📱 Responsive design for all screen sizes
-* 🔄 Easy to customize and extend
-
----
-
-## 🛠️ Tech Stack
-
-* **HTML5** – Semantic structure
-* **CSS3** – Custom styling and responsive layout
-* **Vanilla JavaScript** – Core logic, DOM manipulation, and dynamic rendering
-
----
-
-
-
-
-## 🚀 Features
-
-* ✅ Multiple choice questions
-* ⏱️ Timer-based quizzes (optional)
-* 📊 Instant score display
-* 🎯 Visual feedback for right/wrong answers
-* 🧩 Clean and modern UI
-* 📱 Responsive design for all screen sizes
-* 🔄 Easy to customize and extend
-
----
-
-## 🛠️ Tech Stack
-
-* **HTML5** – Semantic structure
-* **CSS3** – Custom styling and responsive layout
-* **Vanilla JavaScript** – Core logic, DOM manipulation, and dynamic rendering
-
----
-
-
-
-
-
 ## 📂 Project Structure
 
 ```
