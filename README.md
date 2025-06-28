@@ -2,7 +2,8 @@
 
 A sleek, responsive, and interactive **Quiz Application** built using **HTML, CSS, and JavaScript**. This app allows users to test their knowledge on various topics in a dynamic and fun way, featuring real-time scoring, visual feedback, and an intuitive user experience.
 
-![quiz-app-banner](https://via.placeholder.com/800x300?text=Quiz+App+Banner) <!-- Replace with actual image if available -->
+![Uploading Screenshot (529).png…]()
+
 
 ---
 
